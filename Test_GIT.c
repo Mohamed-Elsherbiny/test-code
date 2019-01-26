@@ -1,3 +1,3 @@
 # test-code
-#include "avr"
+#include "stio"
 seril.write('no')
